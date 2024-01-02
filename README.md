@@ -1,6 +1,6 @@
 This is one of my first java projects. I decided to upload it now on GitHub, but there won't be any other version of this.. so that means there will be just one final version, without any history of how the project has changed over time.
 
-The project was made just for fun some time ago, without taking in consideration a lot of aspects like, for example, password encoding, or error handling.
+The project was made just for fun some time ago, without taking in consideration a lot of aspects like, for example, password encoding or error handling.
 
 What is exactly this project? A small "messenger" that can be used to communicate between accounts.
 To build this I've used Sockets, JPA, Java Swing and some patterns like: Singleton, Observer and Builder (Joshua Bloch's builder, not GoF)
