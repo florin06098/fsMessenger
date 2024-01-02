@@ -3,7 +3,7 @@ This is one of my first java projects. I decided to upload it now on GitHub, but
 The project was made just for fun some time ago, without taking in consideration a lot of aspects like, for example, password encoding or error handling.
 
 What is exactly this project? A small "messenger" that can be used to communicate between accounts.
-To build this I've used Sockets, JPA, Java Swing and some patterns like: Singleton, Observer and Builder (Joshua Bloch's builder, not GoF)
+To build this I've used Sockets, JPA, Hibernate, Java Swing, PostgreSQL and some patterns like: Singleton, Observer and Builder (Joshua Bloch's builder, not GoF)
 
 ![mainFrame](https://github.com/florin06098/fsMessenger/assets/146831453/8d0bb66c-fa75-42f6-b70a-2e217846249c)
 
