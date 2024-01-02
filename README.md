@@ -1,4 +1,4 @@
-![signupFrame](https://github.com/florin06098/fsMessenger/assets/146831453/9ab6a151-99cf-4380-863f-2a03b0fdc7a5)This is one of my first java projects. I decided to upload it now on GitHub, but there won't be any other version of this.. so that means there will be just one final version, without any history of how the project has changed over time.
+This is one of my first java projects. I decided to upload it now on GitHub, but there won't be any other version of this.. so that means there will be just one final version, without any history of how the project has changed over time.
 
 The project was made just for fun some time ago, without taking in consideration a lot of aspects like, for example, password encoding, or error handling.
 
